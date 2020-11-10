@@ -1,6 +1,8 @@
 # VMPO-PyTorch
 Minimal PyTorch implementation of V-MPO: On-Policy Maximum a Posteriori Policy Optimization for OpenAI gym environments.
 
+Modified from nikhilbarhate99/PPO-PyTorch
+
 ## Usage
 - To train a new network : run `VMPO.py`
 
